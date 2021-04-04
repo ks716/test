@@ -11,7 +11,7 @@
  
  4-7  - second shade
  
- 8-10  - third shade
+ 8-10  - third shade 
  
  11+  - fourth shade 
  
