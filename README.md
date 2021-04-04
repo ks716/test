@@ -13,7 +13,7 @@
  
  8-10  - third shade
  
- 11+  - fourth shade
+ 11+  - fourth shade 
  
  more
   
